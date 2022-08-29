@@ -2,6 +2,3 @@
 Bootcamp
 
 Hello World!
-
-
-TETXT
